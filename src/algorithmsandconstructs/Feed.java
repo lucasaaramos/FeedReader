@@ -14,7 +14,7 @@ import java.util.Collection;
  */
 public class Feed implements FeedInterface {
     
-    //
+    
     
     ArrayList<FeedItem> items;
     
